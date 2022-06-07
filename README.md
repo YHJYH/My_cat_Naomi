@@ -8,7 +8,7 @@ Breed: Ragdoll <br>
 Colour: Bicolour <br>
 Neutered: Yes <br>
 Birthday: 11th March 2019 <br>
-![naomi](naomi.jpg)
+![naomi](naomi1.jpg)
 
 ## Vaccination information
 | Vaccination | Date(DD/MM/YYYY) | Doc Link |
