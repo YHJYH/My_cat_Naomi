@@ -1,4 +1,4 @@
-# My_cat_Naomi
+# My cat Naomi
 This repo is to store documents and relative information about my lovely cat, Naomi.
 
 ## Basic information
@@ -8,6 +8,7 @@ Breed: Ragdoll <br>
 Colour: Bicolour <br>
 Neutered: Yes <br>
 Birthday: 11th March 2019 <br>
+[naomi](naomi.jpg)
 
 ## Vaccination information
 | Vaccination | Date(DD/MM/YYYY) | Doc Link |
