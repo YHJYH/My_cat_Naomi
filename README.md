@@ -3,10 +3,10 @@ This repo is to store documents and relative information about my beloved cat, N
 [pet ownership](https://www.justgreatlawyers.com/pet-paperwork)
 
 ## Basic information
-Name: Naomi <br>
+Name: Nomi <br>
 Gender: Male <br>
 Breed: Ragdoll <br>
 Colour: Bicolour <br>
 Neutered: Yes <br>
 Birthday: 11th March 2019 <br>
-![naomi](naomi1.jpg)
+![naomi](pics/naomi1.jpg)
