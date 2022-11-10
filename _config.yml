@@ -1,5 +1,5 @@
-title: My_cat_Naomi
+title: My cat Naomi
 description: This website is built for my lovely cat Naomi.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
