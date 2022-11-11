@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My cat Naomi
 This repo is to share photos & stories, store documents, and share useful information to all pet owners. <br>
 
@@ -15,6 +19,6 @@ Birthday: 11th March 2019 <br>
 ## Contents
 - Naomi's diary<br>
 - Naomi's documents<br>
-- London vet info<br>
+- [London vet info](subsec/london_vet_info.md)<br>
 - Summary of medicine<br>
 
