@@ -1,4 +1,8 @@
-# medicine history
+---
+layout: default
+---
+
+# 猫咪用药
 TERRAMYCIN® OPHTHALMIC OINTMENT: 眼药膏，抗生素对抗眼部感染。[How To Apply Eye Drops or Ointment to Your Cat's Eyes](https://www.youtube.com/watch?v=tHhqrz_2zDs)
 
 pro-kolin probiotic: 治疗肠胃炎的益生菌。
