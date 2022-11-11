@@ -5,7 +5,7 @@ layout: default
 # My cat Naomi
 This repo is for sharing photos & stories, storing documents, and sharing useful information with all pet owners. <br>
 
-If you have any problem about [pet ownership](https://www.justgreatlawyers.com/pet-paperwork).
+If you have any problem about pet ownership, please check [here](https://www.justgreatlawyers.com/pet-paperwork).
 
 ## Basic information
 Name: Naomi <br>
