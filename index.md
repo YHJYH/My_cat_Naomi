@@ -17,7 +17,7 @@ Birthday: 11th March 2019 <br>
 ![naomi](pics/naomi2.jpg)
 
 # Contents
-- [Naomi's diary](subsec/naomi_diary.md)<br>
+- [Naomi's diary](subsec/naomi_diary.md) [last update on _11/11_]<br>
 - Naomi's documents<br>
 - [London vet info](subsec/london_vet_info.md)<br>
 - Summary of medicine<br>
