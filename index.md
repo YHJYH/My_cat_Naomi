@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![selfie](pics/1830378998.jpg)
+
 # Beloved Naomi
 This repo is for sharing photos & stories, storing documents, and sharing useful information with all pet owners. <br>
 
