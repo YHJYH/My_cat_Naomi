@@ -11,6 +11,11 @@ layout: default
 两坨圆圆的东西．．．<br>
 ![0112](../pics/1948569188.jpg)
 
+## **28/11/2022**
+<video width="320" height="240" controls>
+    <source src="IMG_0046.mp4" type="video/mp4">
+</video>
+
 ## **26/11/2022**
 好吃！真好吃！<br>
 ![2611](../pics/1498341958.jpg)
