@@ -12,8 +12,8 @@ layout: default
 ![0112](../pics/1948569188.jpg)
 
 ## **28/11/2022**
-<video width="320" height="240" controls>
-    <source src="IMG_0046.mp4" type="video/mp4">
+<video width="400" height="240" controls>
+    <source src="../video/IMG_0046.mp4" type="video/mp4">
 </video>
 
 ## **26/11/2022**
