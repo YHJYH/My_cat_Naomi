@@ -2,6 +2,13 @@
 layout: default
 ---
 
+## **9/12/2022**
+岁月静好便是最好。<br>
+![0912](../pics/1482506440.jpg)
+<video width="400" height="240" controls>
+    <source src="../video/AVYN0762.MP4" type="video/mp4">
+</video>
+
 ## **2/12/2022**
 “你像窝在被子里的舒服<br>
 却又像风 捉摸不住”<br>

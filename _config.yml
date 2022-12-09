@@ -10,3 +10,16 @@ gitalk:
   clientSecret: 9f4b59e57cd6fdf8a3685bb6c7ac11af1e920313
   repo: yhjyh.github.io
   owner: YHJYH
+
+  # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+#google_analytics: 
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+# url: 
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: https://yhjyh.github.io/My_cat_Naomi/
