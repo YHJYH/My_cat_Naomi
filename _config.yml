@@ -3,3 +3,10 @@ description: This website is built for my lovely cat Naomi.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+
+# Gitalk
+gitalk:
+  clientID: 4d771912cc2ce2da3be6
+  clientSecret: 9f4b59e57cd6fdf8a3685bb6c7ac11af1e920313
+  repo: yhjyh.github.io
+  owner: YHJYH
