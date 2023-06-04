@@ -20,9 +20,9 @@ If you have any problem about pet ownership, please check [here](https://www.jus
 ![naomi](pics/naomi2.jpg)
 
 # Contents
-- [糯米日记/Naomi's diary](subsec/naomi_diary.md) [last updated on _9/01_]<br>
-- [糯米的文件/Naomi's documents](subsec/docs.md)<br>
-- [伦敦兽医/London vet info](subsec/london_vet_info.md)<br>
-- [猫用药物汇总/Summary of medicine](subsec/med_summary.md)<br>
-- [猫咪驱虫相关知识/cat deworming](https://www.zhihu.com/question/285641623)<br>
+- [糯米日记/Naomi's diary](subsec/naomi_diary.md) [last updated on _9/01_] <br>
+- [糯米的文件/Naomi's documents](subsec/docs.md) <br>
+- [伦敦兽医/London vet info](subsec/london_vet_info.md) <br>
+- [猫用药物汇总/Summary of medicine](subsec/med_summary.md) <br>
+- [猫咪驱虫相关知识/cat deworming](https://www.zhihu.com/question/285641623) <br>
 
