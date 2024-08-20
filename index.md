@@ -5,8 +5,8 @@ layout: default
 ![selfie](pics/1830378998.jpg)
 
 # Beloved Naomi
-<!--This repo is for sharing photos & stories, storing documents, and sharing useful information with all pet owners. <br> -->
-此repo用于分享糯米的照片和故事、存储相关的文档以及与所有宠物主人共享有用的信息。
+This repo is for sharing photos & stories, storing documents, and sharing useful information with all pet owners. <br>
+<!-- 此repo用于分享糯米的照片和故事、存储相关的文档以及与所有宠物主人共享有用的信息。-->
 
 If you have any problem about pet ownership, please check [here](https://www.justgreatlawyers.com/pet-paperwork).
 
@@ -17,6 +17,7 @@ If you have any problem about pet ownership, please check [here](https://www.jus
 颜色Colour: Bicolour <br>
 是否绝育Neutered: Yes <br>
 生日Birthday: 11th March 2019 <br>
+Microchip number: 953010100372319 <br>
 ![naomi](pics/naomi2.jpg)
 
 # Contents
