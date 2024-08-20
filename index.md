@@ -21,7 +21,7 @@ Microchip number: 953010100372319 <br>
 ![naomi](pics/naomi2.jpg)
 
 # Contents
-- [糯米日记/Naomi's diary](subsec/naomi_diary.md) [last updated on _4/06_] <br>
+- [糯米日记/Naomi's diary](subsec/naomi_diary.md) [last updated on _01/09/2023_] <br>
 - [糯米的文件/Naomi's documents](subsec/docs.md) <br>
 - [伦敦兽医/London vet info](subsec/london_vet_info.md) <br>
 - [猫用药物汇总/Summary of medicine](subsec/med_summary.md) <br>
